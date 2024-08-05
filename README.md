@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="images/libft.png"style="width: 250px; height: auto; border: none;">
+  <img src="images/Libft.png" alt="Ma Photo" style="width: 250px; height: auto; border: none;">
 </p>
