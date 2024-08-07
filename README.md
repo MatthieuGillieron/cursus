@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Cursus</h1>
+  <h1>CURSUS</h1>
 </div>
 
 <div style="width: 100%; max-width: 800px;">
