@@ -1,19 +1,8 @@
-<div align="center">
-  <h1>CURSUS</h1>
-</div>
+<h2 align="center">Projets du Tronc Commun</h2>
 
-<div style="width: 100%; max-width: 800px;">
-  <img src="images/libft.png" alt="Bannière" style="width: 100%; height: auto; border: none;">
-</div>
+| [![Libft](images/libft.png)](https://github.com/MatthieuGillieron/libft) | [![Get_Next_Line](images/gnl.png)](https://github.com/MatthieuGillieron/get_next_line) |
+|:-----------------------------------:|:--------------------------------------:|
+| **Libft** - Bibliothèque C          | **Get Next Line** - Lecture de fichiers |
 
-<div style="width: 100%; max-width: 800px;">
-  <img src="images/ft_printf.png" alt="Bannière" style="width: 100%; height: auto; border: none;">
-</div>
-
-<div style="width: 100%; max-width: 800px;">
-  <img src="images/gnl.png" alt="Bannière" style="width: 100%; height: auto; border: none;">
-</div>
-
-<div style="width: 100%; max-width: 800px;">
-  <img src="images/b2r.png" alt="Bannière" style="width: 100%; height: auto; border: none;">
-</div>
+| [![Minishell](images/minishell.png)](https://github.com/MatthieuGillieron/minishell) | [![NetPractice](images/netpractice.png)](https://github.com/MatthieuGillieron/netpractice) |
+| **Minishell** - Mini Shell Unix     | **NetPractice** - Projet Réseau         |
