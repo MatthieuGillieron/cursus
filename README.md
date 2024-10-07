@@ -1,7 +1,7 @@
 <h2 align="center">Projets du Tronc Commun</h2>
 
 ### Niveau 0
-| <a href="https://github.com/MatthieuGillieron/libft"><img src="images/libft.png" alt="Libft" width="300" style="border: none;"></a> |
+| <a href="https://github.com/MatthieuGillieron/libft"><img src="images/libft.png" alt="Libft" width="250" style="border: none;"></a> |
 |:-----------------------------------:|
 
 ### Niveau 1
