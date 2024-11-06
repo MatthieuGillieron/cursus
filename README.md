@@ -1,5 +1,4 @@
 
-[![magillie's 42 stats](https://badge.mediaplus.ma/darkblue/magillie?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 ### Niveau 0
 | <a href="https://github.com/MatthieuGillieron/libft"><img src="images/libft.png" alt="Libft" width="250" style="border: none;"></a> |
 |:-----------------------------------:|
