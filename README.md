@@ -8,5 +8,5 @@
 |:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
 
 ### Niveau 2
-| [![So_Long](images/so_long.png)](https://github.com/MatthieuGillieron/so_long) | [![Minitalk](images/mini.png)](https://github.com/MatthieuGillieron/minitalk) | [![Push_Swap](images/pushswap.png)](https://github.com/MatthieuGillieron/push_swap) |
+| [![So_Long](images/so_long.png)](https://github.com/MatthieuGillieron/so_long) | [![Minitalk](images/mini.png)](https://github.com/MatthieuGillieron/minitalk) | [![Push_Swap](images/push.png)](https://github.com/MatthieuGillieron/push_swap) |
 |:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
