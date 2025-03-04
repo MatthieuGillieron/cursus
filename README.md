@@ -20,7 +20,7 @@
       </details>
       <details>
         <summary><h4>Rank02</h4></summary>
-        <a href="toolshttps://github.com/users/MatthieuGillieron/projects/4/views/1"><img src="images/rank02.png" alt="Rank02" style="border: none;"></a>
+        <a href="https://github.com/users/MatthieuGillieron/projects/4/views/1"><img src="images/rank02.png" alt="Rank02" style="border: none;"></a>
       </details>
       <details>
         <summary><h4>Rank03</h4></summary>
