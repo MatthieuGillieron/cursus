@@ -71,13 +71,11 @@
       </details>
     </td>
   </tr>
-  <!-- Ligne 4 : Titre Common Core centré sur 2 colonnes -->
   <tr>
     <td colspan="2" style="text-align: center;">
-      <h2>Common Core</h2>
+      <h3>Common Core</h3>
     </td>
   </tr>
-  <!-- Ligne 5 : Ancien menu déroulant (votre tableau) dans une seule cellule -->
   <tr>
     <td colspan="2">
       <div markdown="1">
