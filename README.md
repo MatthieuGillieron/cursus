@@ -14,6 +14,10 @@
   <tr>
     <!-- Colonne de gauche : 42 Exam (menus Rank) -->
     <td>
+        <details>
+        <summary><h3>Piscine</h3></summary>
+        [Repo à venir]
+      </details>
       <details>
         <summary><h3>Rank02</h3></summary>
         [Repo à venir]
@@ -70,29 +74,34 @@
   <!-- Ligne 4 : Titre Common Core centré sur 2 colonnes -->
   <tr>
     <td colspan="2" style="text-align: center;">
-      <h3>Common Core</h3>
+      <h2>Common Core</h2>
     </td>
   </tr>
-  <!-- Ligne 5 : Ancien menu déroulant dans une seule colonne -->
+  <!-- Ligne 5 : Ancien menu déroulant (votre tableau) dans une seule cellule -->
   <tr>
     <td colspan="2">
-      <details>
-        <summary><h3>Level 0</h3></summary>
-        | <a href="https://github.com/MatthieuGillieron/libft"><img src="images/libft.png" alt="Libft" style="border: none;"></a> |
-        |:-----------------------------------:|
-      </details>
-      <br>
-      <details>
-        <summary><h3>Level 1</h3></summary>
-        | [![Ft_printf](images/ft_printf.png)](https://github.com/MatthieuGillieron/ft_printf) | [![Get_Next_Line](images/gnl.png)](https://github.com/MatthieuGillieron/get_next_line) | [![Born2beroot](images/b2r.png)](https://github.com/MatthieuGillieron/born2beroot) |
-        |:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
-      </details>
-      <br>
-      <details>
-        <summary><h3>Level 2</h3></summary>
-        | [![So_Long](images/so_long.png)](https://github.com/MatthieuGillieron/so_long) | [![Minitalk](images/mini.png)](https://github.com/MatthieuGillieron/minitalk) | [![Push_Swap](images/push.png)](https://github.com/MatthieuGillieron/push_swap) |
-        |:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
-      </details>
+      <div markdown="1">
+<details>
+<summary><h3>Level 0</h3></summary>
+
+| <a href="https://github.com/MatthieuGillieron/libft"><img src="images/libft.png" alt="Libft" style="border: none;"></a> |
+|:-----------------------------------:|
+</details>
+
+<details>
+<summary><h3>Level 1</h3></summary>
+
+| [![Ft_printf](images/ft_printf.png)](https://github.com/MatthieuGillieron/ft_printf) | [![Get_Next_Line](images/gnl.png)](https://github.com/MatthieuGillieron/get_next_line) | [![Born2beroot](images/b2r.png)](https://github.com/MatthieuGillieron/born2beroot) |
+|:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
+</details>
+
+<details>
+<summary><h3>Level 2</h3></summary>
+
+| [![So_Long](images/so_long.png)](https://github.com/MatthieuGillieron/ft_printf) | [![Minitalk](images/mini.png)](https://github.com/MatthieuGillieron/minitalk) | [![Push_Swap](images/push.png)](https://github.com/MatthieuGillieron/push_swap) |
+|:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
+</details>
+      </div>
     </td>
   </tr>
 </table>
