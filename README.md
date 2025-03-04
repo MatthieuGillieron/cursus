@@ -15,10 +15,6 @@
     <!-- Colonne de gauche : 42 Exam (menus) -->
     <td>
       <details>
-        <summary><h4>Piscine</h4></summary>
-        <a href="lien ici"><img src="images/piscine.png" alt="Piscine" style="border: none;"></a>
-      </details>
-      <details>
         <summary><h4>Rank02</h4></summary>
         <a href="https://github.com/users/MatthieuGillieron/projects/4/views/1"><img src="images/rank02.png" alt="Rank02" style="border: none;"></a>
       </details>
