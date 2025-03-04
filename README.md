@@ -15,58 +15,58 @@
     <!-- Colonne de gauche : 42 Exam (menus Rank) -->
     <td>
         <details>
-        <summary><h3>Piscine</h3></summary>
+        <summary><h4>Piscine</h4></summary>
         [Repo à venir]
       </details>
       <details>
-        <summary><h3>Rank02</h3></summary>
+        <summary><h4>Rank02</h4></summary>
         [Repo à venir]
       </details>
       <details>
-        <summary><h3>Rank03</h3></summary>
+        <summary><h4>Rank03</h4></summary>
         [Repo à venir]
       </details>
       <details>
-        <summary><h3>Rank04</h3></summary>
+        <summary><h4>Rank04</h4></summary>
         [Repo à venir]
       </details>
       <details>
-        <summary><h3>Rank05</h3></summary>
+        <summary><h4>Rank05</h4></summary>
         [Repo à venir]
       </details>
       <details>
-        <summary><h3>Rank06</h3></summary>
+        <summary><h4>Rank06</h4></summary>
         [Repo à venir]
       </details>
     </td>
     <!-- Colonne de droite : 42 Eval (menus Level) -->
     <td>
       <details>
-        <summary><h3>Level 00</h3></summary>
+        <summary><h4>Level 00</h4></summary>
         [Lien à venir]
       </details>
       <details>
-        <summary><h3>Level 01</h3></summary>
+        <summary><h4>Level 01</h4></summary>
         [Lien à venir]
       </details>
       <details>
-        <summary><h3>Level 02</h3></summary>
+        <summary><h4>Level 02</h4></summary>
         [Lien à venir]
       </details>
       <details>
-        <summary><h3>Level 03</h3></summary>
+        <summary><h4>Level 03</h4></summary>
         [Lien à venir]
       </details>
       <details>
-        <summary><h3>Level 04</h3></summary>
+        <summary><h4>Level 04</h4></summary>
         [Lien à venir]
       </details>
       <details>
-        <summary><h3>Level 05</h3></summary>
+        <summary><h4>Level 05</h4></summary>
         [Lien à venir]
       </details>
       <details>
-        <summary><h3>Level 06</h3></summary>
+        <summary><h4>Level 06</h4></summary>
         [Lien à venir]
       </details>
     </td>
@@ -80,21 +80,21 @@
     <td colspan="2">
       <div markdown="1">
 <details>
-<summary><h3>Level 0</h3></summary>
+<summary><h4>Level 0</h4></summary>
 
 | <a href="https://github.com/MatthieuGillieron/libft"><img src="images/libft.png" alt="Libft" style="border: none;"></a> |
 |:-----------------------------------:|
 </details>
 
 <details>
-<summary><h3>Level 1</h3></summary>
+<summary><h4>Level 1</h4></summary>
 
 | [![Ft_printf](images/ft_printf.png)](https://github.com/MatthieuGillieron/ft_printf) | [![Get_Next_Line](images/gnl.png)](https://github.com/MatthieuGillieron/get_next_line) | [![Born2beroot](images/b2r.png)](https://github.com/MatthieuGillieron/born2beroot) |
 |:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
 </details>
 
 <details>
-<summary><h3>Level 2</h3></summary>
+<summary><h4>Level 2</h4></summary>
 
 | [![So_Long](images/so_long.png)](https://github.com/MatthieuGillieron/ft_printf) | [![Minitalk](images/mini.png)](https://github.com/MatthieuGillieron/minitalk) | [![Push_Swap](images/push.png)](https://github.com/MatthieuGillieron/push_swap) |
 |:-----------------------------------:|:--------------------------------------:|:---------------------------------------:|
