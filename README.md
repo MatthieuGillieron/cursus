@@ -55,11 +55,12 @@
       <details>
         <summary><h4>Level 03</h4></summary>
         <a href="42eval/ng_3_minishell.pdf">minishell</a> &nbsp;
-		<a href="42eval/ng_4_philosophers.pdf">philosophers</a> &nbsp;
+	<a href="42eval/ng_4_philosophers.pdf">philosophers</a>
       </details>
       <details>
         <summary><h4>Level 04</h4></summary>
-        [Lien à venir]
+        <a href="42eval/ng_5_cub3d.pdf">cub3d</a> &nbsp;
+	<a href="42eval/ng_5_minirt.pdf">miniRT</a> &nbsp;
       </details>
       <details>
         <summary><h4>Level 05</h4></summary>
