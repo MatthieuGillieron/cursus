@@ -38,20 +38,24 @@
     <!-- Colonne de droite : 42 Eval (menus Level) -->
     <td>
       <details>
-        <summary><h4>Level 00</h4></summary>
-        [Lien à venir]
-      </details>
-      <details>
         <summary><h4>Level 01</h4></summary>
-        [Lien à venir]
+        <a href="42eval/ng_1_born2beroot.pdf">born2beroot</a> &nbsp;
+		<a href="42eval/ng_1_get_next_line.pdf">get_next_line</a> &nbsp;
+		<a href="42eval/ng_1_ft_printf.pdf">ft_printf</a>
       </details>
       <details>
         <summary><h4>Level 02</h4></summary>
-        <a href="42eval/ng_2_push_swap.pdf">push_swap</a> &nbsp; <a href="42eval/ng_2_so_long.pdf">so_long</a>
+        <a href="42eval/ng_2_push_swap.pdf">push_swap</a> &nbsp;
+		<a href="42eval/ng_2_so_long.pdf">so_long</a> &nbsp;
+		<a href="42eval/ng_2_minitalk.pdf">minitalk</a> &nbsp;
+		<a href="42eval/ng_2_pipex.pdf">pipex</a> &nbsp;
+		<a href="42eval/ng_2_fdf.pdf">fdf</a> &nbsp; 
+		<a href="42eval/ng_2_so_long.pdf">so_long</a>
       </details>
       <details>
         <summary><h4>Level 03</h4></summary>
-        [Lien à venir]
+        <a href="42eval/ng_3_minishell.pdf">minishell</a> &nbsp;
+		<a href="42eval/ng_4_philosophers.pdf">philosophers</a> &nbsp;
       </details>
       <details>
         <summary><h4>Level 04</h4></summary>
