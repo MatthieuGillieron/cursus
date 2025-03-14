@@ -70,8 +70,6 @@
  	<a href="42eval/ng_3_inception.pdf">cpp04</a> &nbsp;
  	<a href="42eval/ng_5_ft_irc.pdf">cpp04</a> &nbsp;
  	<a href="42eval/ng_5_webserv.pdf">cpp04</a>
-
-
       </details>
       <details>
         <summary><h4>Level 05</h4></summary>
