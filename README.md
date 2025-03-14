@@ -66,7 +66,7 @@
         <a href="42eval/ng_4_cpp_module_01.pdf">cpp01</a> &nbsp;
         <a href="42eval/ng_4_cpp_module_02.pdf">cpp02</a> &nbsp;
         <a href="42eval/ng_4_cpp_module_03.pdf">cpp03</a> &nbsp;
-        <a href="42eval/ng_4_cpp_module_04.pdf">cpp04</a> &nbsp;
+        <a href="42eval/ng_4_cpp_module_04.pdf">cpp04</a>
       </details>
       <details>
         <summary><h4>Level 05</h4></summary>
@@ -81,7 +81,7 @@
       </details>
       <details>
         <summary><h4>Level 06</h4></summary>
-        [Lien à venir]
+        [⭐️ Star the project ⭐️]
       </details>
     </td>
   </tr>
