@@ -61,6 +61,12 @@
         <summary><h4>Level 04</h4></summary>
         <a href="42eval/ng_5_cub3d.pdf">cub3d</a> &nbsp;
 	<a href="42eval/ng_5_minirt.pdf">miniRT</a> &nbsp;
+        <a href="42eval/ng_4_net_practice.pdf">netpractice</a> &nbsp;
+        <a href="42eval/ng_4_cpp_module_00.pdf">cpp00</a> &nbsp;
+        <a href="42eval/ng_4_cpp_module_01.pdf">cpp01</a> &nbsp;
+        <a href="42eval/ng_4_cpp_module_02.pdf">cpp02</a> &nbsp;
+        <a href="42eval/ng_4_cpp_module_03.pdf">cpp03</a> &nbsp;
+        <a href="42eval/ng_4_cpp_module_04.pdf">cpp04</a> &nbsp;
       </details>
       <details>
         <summary><h4>Level 05</h4></summary>
