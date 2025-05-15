@@ -105,7 +105,7 @@
       </details>
       <details>
         <summary><h4>Level 06</h4></summary>
-        [⭐️ Star the project ⭐️]
+        ⭐️ Star the ripo :) ⭐️
       </details>
     </td>
   </tr>
